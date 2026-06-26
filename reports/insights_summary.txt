@@ -1,0 +1,22 @@
+
+HR ATTRITION ANALYSIS — INSIGHTS SUMMARY
+==========================================
+Total Employees      : 1470
+Employees Left       : 237
+Overall Attrition %  : 16.12%
+
+KEY INSIGHTS
+------------
+1. Sales dept has highest attrition at 20.6%
+2. Age group 18-25 leaves the most at 34.8%
+3. Overtime employees are 20.1% more likely to leave
+4. Employees who left earned $2,046 less on average
+5. Early employees (0-2 yrs) have 29.8% attrition rate
+
+RECOMMENDATIONS
+---------------
+1. Focus retention on Sales department
+2. Create growth paths for young employees
+3. Reduce or compensate overtime fairly
+4. Review and improve salary structure
+5. Strengthen onboarding program
